@@ -7,15 +7,14 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "Physics Teachers' Conference 2016",
       description: "Conference description",
-      date: "November 15",
+      date: "1st & 2nd July 2016",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      price: "R1400",
+      venue: "St John's College",
+      address: "St David Road, Johannesburg",
+      city: "Johannesburg"
     },
 
     // The Call To Action button at the header,
@@ -23,11 +22,6 @@ module.exports = {
     callToAction: {
         text: "Register now!",
         link: "http://eventick.com.br"
-    },
-
-    // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
     },
 
     // Site info
@@ -45,7 +39,6 @@ module.exports = {
       'location',
       'speakers',
       'schedule',
-      'sponsors',
       'partners'
       // 'contact'
     ],
@@ -68,32 +61,32 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Linus Torvalds",
+        name: "Professor Romeel Davé",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        bio: "------",
+        company: "University of the Western Cape",
         link: {
           href: "http://twitter.com/linus",
           text: "@linus"
         },
         presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Simulations of Galaxy Evolution",
+          description: "dddddd",
           time: "10h00"
         }
       },
       {
-        name: "Bill Gates",
+        name: "Associate Professor Michelle Kuttel",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
+        bio: "DDDDDD",
+        company: "University of Cape Town",
         link: {
           href: "http://github.com/billy95",
           text: "@billy95"
         },
         presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "High performance computing, visualisations and other cool things",
+          description: "dfdfdafasf",
           time: "11h00"
         }
       },
@@ -102,25 +95,25 @@ module.exports = {
         time: "12h00"
       },
       {
-        name: "Chuck Norris",
+        name: "Associate Professor Rhett Allain",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
+        bio: "Saving the internet from bad science!",
+        company: "Southern Louisiana State University",
         link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
+          href: "http://twitter.com/rjallain",
+          text: "@rjallain"
         },
         presentation: {
           title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description: "dddd",
           time: "13h00"
         }
       },
       {
-        name: "Steve Jobs",
+        name: "Dr Carolina Ödman-Govender",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
+        bio: "",
+        company: "Office of Astronomy for Development",
         link: {
           href: "http://github.com/stevie",
           text: "@stevie"
@@ -179,9 +172,14 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
+        name: "Siyavula Education",
         logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        url: "http://www.siyavula.com"
+      },
+      {
+        name: "St John's College",
+        logo: "themes/yellow-swan/img/partner.png",
+        url: "http://www.stjohnscollege.co.za"
       }
     ],
 
