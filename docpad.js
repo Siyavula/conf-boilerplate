@@ -173,12 +173,12 @@ module.exports = {
     partners: [
       {
         name: "Siyavula Education",
-        logo: "themes/yellow-swan/img/partner.png",
+        logo: "themes/yellow-swan/img/SiyavulaLogo.png",
         url: "http://www.siyavula.com"
       },
       {
         name: "St John's College",
-        logo: "themes/yellow-swan/img/partner.png",
+        logo: "themes/yellow-swan/img/StJohnsLogo.png",
         url: "http://www.stjohnscollege.co.za"
       }
     ],
