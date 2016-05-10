@@ -55,7 +55,129 @@ module.exports = {
     },
 
     // The entire schedule
-    schedule: [
+    schedule: [[
+      {
+        name: "Tea / Coffee & Registration",
+        time: "9h00"
+      },
+      {
+        name: "St Johns College",
+        photo: "themes/yellow-swan/img/StJohnsLogo.png",
+        bio: "------",
+        company: "St Johns College",
+        link: {
+          href: "http://twitter.com/linus",
+          text: "@linus"
+        },
+        presentation: {
+          title: "Opening address",
+          description: "Welcome by St John's College Headmaster.",
+          time: "9h15"
+        }
+      },
+
+      {
+        name: "Professor Romeel Davé",
+        photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
+        bio: "------",
+        company: "University of the Western Cape",
+        link: {
+          href: "http://twitter.com/linus",
+          text: "@linus"
+        },
+        presentation: {
+          title: "Simulations of Galaxy Evolution",
+          description: "dddddd",
+          time: "9h30"
+        }
+      },
+      
+      {
+        name: "Roger Wilco",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "DDDDDD",
+        company: "University of Cape Town",
+        link: {
+          href: "http://github.com/billy95",
+          text: "@billy95"
+        },
+        presentation: {
+          title: "High performance computing, visualisations and other cool things",
+          description: "dfdfdafasf",
+          time: "11h00"
+        }
+      },
+      {
+        name: "Lunch",
+        time: "12h00"
+      },
+      {
+        name: "Associate Professor Rhett Allain",
+        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
+        bio: "Saving the internet from bad science!",
+        company: "Southern Louisiana State University",
+        link: {
+          href: "http://twitter.com/rjallain",
+          text: "@rjallain"
+        },
+        presentation: {
+          title: "How to kill a elephant with one finger",
+          description: "dddd",
+          time: "13h00"
+        }
+      },
+      {
+        name: "Dr Carolina Ödman-Govender",
+        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
+        bio: "",
+        company: "Office of Astronomy for Development",
+        link: {
+          href: "http://github.com/stevie",
+          text: "@stevie"
+        },
+        presentation: {
+          title: "Presenting iPad",
+          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "14h00"
+        }
+      },
+      {
+        name: "Coffee-break",
+        time: "15h00"
+      },
+      {
+        name: "Mark Zuckerberg",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        company: "Facebook",
+        link: {
+          href: "http://twitter.com/zuck",
+          text: "@zuck"
+        },
+        presentation: {
+          title: "Revealing Facebook Secrets",
+          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "16h00"
+        }
+      },
+      {
+        name: "Steve Wozniak",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        company: "Apple, Inc.",
+        link: {
+          href: "http://twitter.com/woz",
+          text: "@woz"
+        },
+        presentation: {
+          title: "Why do I prefer Android over iPhone",
+          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "17h00"
+        }
+      }
+    ],
+    
+    [
       {
         name: "Check-in / Breakfast",
         time: "9h00"
@@ -158,6 +280,8 @@ module.exports = {
           time: "17h00"
         }
       }
+    
+    ]
     ],
 
     // List of Sponsors
