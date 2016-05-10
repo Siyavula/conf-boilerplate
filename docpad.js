@@ -13,7 +13,7 @@ module.exports = {
       // If your event is free, just comment this line
       price: "R1400",
       venue: "St John's College",
-      address: "St David Road, Johannesburg",
+      address: "St Johns College, Saint David Road, Johannesburg",
       city: "Johannesburg"
     },
 
@@ -28,7 +28,7 @@ module.exports = {
     site: {
       theme: "yellow-swan",
       url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      googleanalytics: "UA-36803708-2"
     },
 
     // Active sections on the website
@@ -62,7 +62,7 @@ module.exports = {
       },
       {
         name: "Professor Romeel Davé",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
         bio: "------",
         company: "University of the Western Cape",
         link: {
@@ -96,7 +96,7 @@ module.exports = {
       },
       {
         name: "Associate Professor Rhett Allain",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
         bio: "Saving the internet from bad science!",
         company: "Southern Louisiana State University",
         link: {
@@ -111,7 +111,7 @@ module.exports = {
       },
       {
         name: "Dr Carolina Ödman-Govender",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
         bio: "",
         company: "Office of Astronomy for Development",
         link: {
