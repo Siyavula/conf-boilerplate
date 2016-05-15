@@ -21,7 +21,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Register now!",
-        link: "http://eventick.com.br"
+        link: "http://qkt.io/4zONvZ"
     },
 
     // Site info
@@ -86,7 +86,7 @@ module.exports = {
           text: "@dfdslajfasdofjas"
         },
         presentation: {
-          title: "Importance of science in society",
+          title: "TBC",
           description: "dddddd",
           time: "9h00"
         }
@@ -191,7 +191,7 @@ module.exports = {
         name: "Dr Carolina Ödman-Govender",
         photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
         bio: "------",
-        company: "University of the Western Cape",
+        company: "Thumbzup Innovations",
         link: {
           href: "http://twitter.com/carolune",
           text: "@carolune"
