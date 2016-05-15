@@ -61,131 +61,41 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "St Johns College",
-        photo: "themes/yellow-swan/img/StJohnsLogo.png",
-        bio: "------",
+        name: "Paul Edey",
+        photo: "themes/yellow-swan/img/StJohnsHeadmaster.jpg",
+        bio: "Headmaster",
         company: "St Johns College",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+          href: "http://twitter.com/stjohns_college",
+          text: "@stjohns_college"
         },
         presentation: {
-          title: "Opening address",
+          title: "Welcome address",
           description: "Welcome by St John's College Headmaster.",
           time: "9h15"
+        }
+      },
+      
+      {
+        name: "???",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "------",
+        company: "??",
+        link: {
+          href: "http://twitter.com/ddd",
+          text: "@dfdslajfasdofjas"
+        },
+        presentation: {
+          title: "Importance of science in society",
+          description: "dddddd",
+          time: "9h00"
         }
       },
 
       {
         name: "Professor Romeel Davé",
         photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
-        bio: "------",
-        company: "University of the Western Cape",
-        link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
-        },
-        presentation: {
-          title: "Simulations of Galaxy Evolution",
-          description: "dddddd",
-          time: "9h30"
-        }
-      },
-      
-      {
-        name: "Roger Wilco",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "DDDDDD",
-        company: "University of Cape Town",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
-        presentation: {
-          title: "High performance computing, visualisations and other cool things",
-          description: "dfdfdafasf",
-          time: "11h00"
-        }
-      },
-      {
-        name: "Lunch",
-        time: "12h00"
-      },
-      {
-        name: "Associate Professor Rhett Allain",
-        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
-        bio: "Saving the internet from bad science!",
-        company: "Southern Louisiana State University",
-        link: {
-          href: "http://twitter.com/rjallain",
-          text: "@rjallain"
-        },
-        presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "dddd",
-          time: "13h00"
-        }
-      },
-      {
-        name: "Dr Carolina Ödman-Govender",
-        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
-        bio: "",
-        company: "Office of Astronomy for Development",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
-        presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
-        }
-      },
-      {
-        name: "Coffee-break",
-        time: "15h00"
-      },
-      {
-        name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
-        presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
-        }
-      },
-      {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
-        },
-        presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
-        }
-      }
-    ],
-    
-    [
-      {
-        name: "Check-in / Breakfast",
-        time: "9h00"
-      },
-      {
-        name: "Professor Romeel Davé",
-        photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
-        bio: "------",
+        bio: "Prof. Davé obtained his A.B. in Physics from the University of California, Berkeley, his M.S. in Physics from California Institute of Technology, and his Ph.D. in Astronomy & Astrophysics from the University of California, Santa Cruz in 1998.  After that, he was awarded a Lyman J. Spitzer Postdoctoral Fellowship at Princeton, and in 2000 received a Hubble Fellowship, which he took to the University of Arizona.  In 2003, he was hired as an Assistant Professor at Arizona, and obtained tenure in 2009.  He took up the SARChI Chair at UWC in January 2013.  Currently, Prof. Davé has over 100 publications, 7000 citations, and in addition to leading a high-profile research group, he is involved in numerous major international observational and theoretical projects using Hubble, MeerKAT, and others telescopes.",
         company: "University of the Western Cape",
         link: {
           href: "http://twitter.com/linus",
@@ -197,90 +107,207 @@ module.exports = {
           time: "10h00"
         }
       },
+      
       {
-        name: "Associate Professor Michelle Kuttel",
+        name: "Bridget Fleming",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "DDDDDD",
-        company: "University of Cape Town",
+        bio: "to get from Colleen",
+        company: "St John's College",
         link: {
           href: "http://github.com/billy95",
           text: "@billy95"
         },
         presentation: {
-          title: "High performance computing, visualisations and other cool things",
+          title: "Geography Teachers' Association",
           description: "dfdfdafasf",
-          time: "11h00"
+          time: "12h00"
         }
       },
       {
         name: "Lunch",
-        time: "12h00"
+        time: "13h00"
       },
       {
         name: "Associate Professor Rhett Allain",
         photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
-        bio: "Saving the internet from bad science!",
+        bio: "Rhett Allain is an associate professor of physics at Southeastern Louisiana University and the author of the Wired magazine science blog Dot Physics. He received his Ph.D. from North Carolina State University in 2001 and works in the field of physics education research. In his blog, Dot Physics, Allain discusses physical concepts, answers questions related to physics and math, and debunks questionable physical claims. Many of his posts are supported by experiments, calculations and models. Recently, he has analyzed the physics behind the Angry Birds Space video game and behind a now-debunked video which purported to show a man flying with home-made wings. He has also criticized television shows, including Fight Science, that perform poorly controlled experiments which are presented as scientific.",
         company: "Southern Louisiana State University",
         link: {
           href: "http://twitter.com/rjallain",
           text: "@rjallain"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
+          title: "Computational Physics for High School Teachers",
           description: "dddd",
-          time: "13h00"
-        }
-      },
-      {
-        name: "Dr Carolina Ödman-Govender",
-        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
-        bio: "",
-        company: "Office of Astronomy for Development",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
-        presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
           time: "14h00"
         }
       },
       {
-        name: "Coffee-break",
-        time: "15h00"
+        name: "Tea / Coffee",
+        time: "16h00"
       },
       {
-        name: "Mark Zuckerberg",
+        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
+        presentation: {
+          title: "Computational Physics for High School Teachers, Part 2",
+          description: "dddd",
+          time: "16h30"
+        }
+      },
+      {
+        name: "Kosma von Maltitz",
+        photo: "themes/yellow-swan/img/Kosma_von_Maltitz.jpg",
+        bio: "",
+        company: "Siyavula Education",
+        link: {
+          href: "http://twitter.com/rjallain",
+          text: "@rjallain"
+        },
+        presentation: {
+          title: "dfdfdfd",
+          description: "dddd",
+          time: "17h30"
+        }
+      },
+      {
+        name: "Spit braai",
+        time: "19h00"
+      },
+      {
+        name: "Observing",
+        time: "20h00"
+      },
+    ],
+    [
+      {
+        name: "Tea / Coffee",
+        time: "9h00"
+      },
+      {
+        name: "Check-in and feedback",
+        time: "9h15"
+      },
+      {
+        name: "Dr Carolina Ödman-Govender",
+        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
+        bio: "------",
+        company: "University of the Western Cape",
+        link: {
+          href: "http://twitter.com/carolune",
+          text: "@carolune"
+        },
+        presentation: {
+          title: "yyyy",
+          description: "dfdaf",
+          time: "9h30"
+        }
+      },
+      {
+        name: "Dr Trisha Salagaram (TBC)",
         photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "------",
+        company: "University of Pretoria",
+        link: {
+          href: "http://twitter.com/iasdf",
+          text: "@asdf"
+        },
+        presentation: {
+          title: "asdf",
+          description: "asdf",
+          time: "10h30"
+        }
+      },
+      {
+        name: "Tea / Coffee",
+        time: "11h30"
+      },
+      {
+        name: "Associate Professor Saalih Allie",
+        photo: "themes/yellow-swan/img/Saalih_Allie.jpg",
+        bio: "",
+        company: "University of Cape Town",
+        link: {
+          href: "http://github.com/ddd",
+          text: "@billy95"
+        },
+        presentation: {
+          title: "An update on PER",
+          description: "dfdfdafasf",
+          time: "12h00"
+        }
+      },
+      {
+        name: "Lunch",
+        time: "13h00"
+      },
+      {
+        name: "Megan Beckett",
+        photo: "themes/yellow-swan/img/Megan_Beckett.jpg",
+        bio: "asdf",
+        company: "Siyavula Education",
+        link: {
+          href: "http://twitter.com/meganbeckett2",
+          text: "@meganbeckett2"
+        },
+        presentation: {
+          title: "How to kill a elephant with one finger",
+          description: "dddd",
+          time: "14h00"
+        }
+      },
+      {
+        name: "Adam Reynolds",
+        photo: "themes/yellow-swan/img/Adam_Reynolds.jpg",
+        bio: "asdf",
+        company: "Siyavula Education",
+        link: {
+          href: "http://github.com/educationmonger",
+          text: "@educationmonger"
+        },
+        presentation: {
+          title: "Presenting iPad",
+          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          time: "15h00"
+        }
+      },
+      {
+        name: "Coffee-break",
+        time: "16h00"
+      },
+      {
+        name: "Dr Spencer Wheaton",
+        photo: "themes/yellow-swan/img/Spencer_Wheaton.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
         company: "Facebook",
         link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
+          href: "http://twitter.com/spencer_wheaton",
+          text: "@spencer_wheaton"
         },
         presentation: {
-          title: "Revealing Facebook Secrets",
+          title: "Simulations in Physics, teaching, researhc etc.",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
+          time: "16h30"
         }
       },
       {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        name: "Mark Horner",
+        photo: "themes/yellow-swan/img/Mark_Horner.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
+        company: "Facebook",
         link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
+          href: "http://twitter.com/marknewlyn",
+          text: "@marknewlyn"
         },
         presentation: {
-          title: "Why do I prefer Android over iPhone",
+          title: "Wrap up and plans for 2017",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
+          time: "17h30"
         }
-      }
-    
+      },
+      {
+        name: "Departure ... till 2017",
+        time: "18h00"
+      },
     ]
     ],
 
