@@ -13,7 +13,7 @@ module.exports = {
       // If your event is free, just comment this line
       price: "R1400",
       venue: "St John's College",
-      address: "St Johns College, Saint David Road, Johannesburg",
+      address: "St Johns College, St David Road, Houghton, 2198",
       city: "Johannesburg"
     },
 
@@ -265,8 +265,8 @@ module.exports = {
           text: "@educationmonger"
         },
         presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Completing the Circuit - Connecting components in the electric circuits teaching-learning cycle",
+          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
           time: "15h00"
         }
       },
