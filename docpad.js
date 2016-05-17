@@ -61,9 +61,9 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Paul Edey",
-        photo: "themes/yellow-swan/img/StJohnsHeadmaster.jpg",
-        bio: "Headmaster",
+        name: "Dr Colleen Hennnig",
+        photo: "themes/yellow-swan/img/Colleen_Henning.jpg",
+        bio: "",
         company: "St Johns College",
         link: {
           href: "http://twitter.com/stjohns_college",
@@ -71,7 +71,7 @@ module.exports = {
         },
         presentation: {
           title: "Welcome address",
-          description: "Welcome by St John's College Headmaster.",
+          description: "Welcome by St John's College.",
           time: "9h15"
         }
       },
