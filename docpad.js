@@ -131,7 +131,7 @@ module.exports = {
         name: "Associate Professor Rhett Allain",
         photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
         bio: "Rhett Allain is an associate professor of physics at Southeastern Louisiana University and the author of the Wired magazine science blog Dot Physics. He received his Ph.D. from North Carolina State University in 2001 and works in the field of physics education research. In his blog, Dot Physics, Allain discusses physical concepts, answers questions related to physics and math, and debunks questionable physical claims. Many of his posts are supported by experiments, calculations and models. Recently, he has analyzed the physics behind the Angry Birds Space video game and behind a now-debunked video which purported to show a man flying with home-made wings. He has also criticized television shows, including Fight Science, that perform poorly controlled experiments which are presented as scientific.",
-        company: "Southern Louisiana State University",
+        company: "Southeastern Louisiana University",
         link: {
           href: "http://twitter.com/rjallain",
           text: "@rjallain"
@@ -285,7 +285,7 @@ module.exports = {
         },
         presentation: {
           title: "Wrap up and plans for 2017",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description:"Dates, interests, expansion, and ideas.",
           time: "16h30"
         }
       },
