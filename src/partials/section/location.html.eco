@@ -5,5 +5,13 @@
   <span itemprop="addressLocality"><%= @conf.city %></span>,
   <span itemprop="addressRegion"> <%= @conf.state %></span>
 </p>
+<!--
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7161.207596138021!2d28.062667889965823!3d-26.177029870335538!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x47b435a5a981cabb!2sSt+John&#39;s+College!5e0!3m2!1sen!2sza!4v1463337877183"
+width="400" height="300" frameborder="0" style="border:0"
+allowfullscreen></iframe>
+-->
 
 <div id="map-canvas" class="location-area" data-address="<%= @conf.address %>, <%= @conf.city %> - <%= @conf.state %>"></div>
+
+

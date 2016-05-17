@@ -98,8 +98,8 @@ module.exports = {
         bio: "Prof. Davé obtained his A.B. in Physics from the University of California, Berkeley, his M.S. in Physics from California Institute of Technology, and his Ph.D. in Astronomy & Astrophysics from the University of California, Santa Cruz in 1998.  After that, he was awarded a Lyman J. Spitzer Postdoctoral Fellowship at Princeton, and in 2000 received a Hubble Fellowship, which he took to the University of Arizona.  In 2003, he was hired as an Assistant Professor at Arizona, and obtained tenure in 2009.  He took up the SARChI Chair at UWC in January 2013.  Currently, Prof. Davé has over 100 publications, 7000 citations, and in addition to leading a high-profile research group, he is involved in numerous major international observational and theoretical projects using Hubble, MeerKAT, and others telescopes.",
         company: "University of the Western Cape",
         link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
+            href: "https://za.linkedin.com/in/romeel-dave-885b59",
+          text: "LinkedIn"
         },
         presentation: {
           title: "Simulations of Galaxy Evolution",
@@ -113,10 +113,10 @@ module.exports = {
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "To get from Colleen",
         company: "St John's College",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
+//        link: {
+//          href: "http://github.com/billy95",
+//          text: "@billy95"
+//        },
         presentation: {
           title: "Geography Teachers' Association",
           description: "In the spirit of - the experience of setting up a Geography Teachers' Association - what worked, what didn't work and what would be done differently if they had to do it over again",
@@ -138,7 +138,7 @@ module.exports = {
         },
         presentation: {
           title: "Computational Physics for High School Teachers",
-          description: "In the spirit of - ",
+          description: "In the spirit of - using simple computational physics tools to understand and visualise physics in action.",
           time: "14h00"
         }
       },
@@ -150,7 +150,7 @@ module.exports = {
         photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
         presentation: {
           title: "Computational Physics for High School Teachers, Part 2",
-          description: "dddd",
+          description: "",
           time: "16h30"
         }
       },
@@ -174,7 +174,7 @@ module.exports = {
         time: "19h00"
       },
       {
-        name: "Observing",
+        name: "Observing - bring warm clothing",
         time: "20h00"
       },
     ],
@@ -205,11 +205,11 @@ module.exports = {
       {
         name: "Dr Trisha Salagaram (TBC)",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "------",
+        bio: "Bio pending",
         company: "University of Pretoria",
         link: {
-          href: "http://twitter.com/iasdf",
-          text: "@asdf"
+          href: "https://za.linkedin.com/in/trisha-salagaram-5b48032a",
+          text: "LinkedIn"
         },
         presentation: {
           title: "The importance of computational physics, it's key role in research and what this means for teaching physics",
@@ -224,11 +224,11 @@ module.exports = {
       {
         name: "Associate Professor Saalih Allie",
         photo: "themes/yellow-swan/img/Saalih_Allie.jpg",
-        bio: "",
+        bio: "Bio pending",
         company: "University of Cape Town",
         link: {
-          href: "http://github.com/ddd",
-          text: "@billy95"
+          href: "http://www.phy.uct.ac.za/phy/people/academic/allie",
+          text: "UCT"
         },
         presentation: {
           title: "Physics Education Research (PER)",
