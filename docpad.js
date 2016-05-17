@@ -11,7 +11,7 @@ module.exports = {
       description: "Conference description",
       date: "1st & 2nd July 2016",
       // If your event is free, just comment this line
-      price: "R1400",
+      price: "R1550",
       venue: "St John's College",
       address: "St Johns College, St David Road, Houghton, 2198",
       city: "Johannesburg"
@@ -81,14 +81,14 @@ module.exports = {
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "------",
         company: "??",
-        link: {
-          href: "http://twitter.com/ddd",
-          text: "@dfdslajfasdofjas"
-        },
+        //link: {
+        //  href: "http://twitter.com/ddd",
+        //  text: "@dfdslajfasdofjas"
+        //},
         presentation: {
           title: "TBC",
-          description: "dddddd",
-          time: "9h00"
+          description:"",
+          time: "9h30"
         }
       },
 
@@ -103,7 +103,7 @@ module.exports = {
         },
         presentation: {
           title: "Simulations of Galaxy Evolution",
-          description: "dddddd",
+          description: "",
           time: "10h00"
         }
       },
@@ -111,7 +111,7 @@ module.exports = {
       {
         name: "Bridget Fleming",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "to get from Colleen",
+        bio: "To get from Colleen",
         company: "St John's College",
         link: {
           href: "http://github.com/billy95",
@@ -119,7 +119,7 @@ module.exports = {
         },
         presentation: {
           title: "Geography Teachers' Association",
-          description: "dfdfdafasf",
+          description: "In the spirit of - the experience of setting up a Geography Teachers' Association - what worked, what didn't work and what would be done differently if they had to do it over again",
           time: "12h00"
         }
       },
@@ -138,7 +138,7 @@ module.exports = {
         },
         presentation: {
           title: "Computational Physics for High School Teachers",
-          description: "dddd",
+          description: "In the spirit of - ",
           time: "14h00"
         }
       },
@@ -157,15 +157,15 @@ module.exports = {
       {
         name: "Kosma von Maltitz",
         photo: "themes/yellow-swan/img/Kosma_von_Maltitz.jpg",
-        bio: "",
+        bio: "TBC",
         company: "Siyavula Education",
         link: {
           href: "http://twitter.com/rjallain",
           text: "@rjallain"
         },
         presentation: {
-          title: "dfdfdfd",
-          description: "dddd",
+          title: "TBC",
+          description: "In the spirit of - exo-planets, recent discoveries",
           time: "17h30"
         }
       },
@@ -197,8 +197,8 @@ module.exports = {
           text: "@carolune"
         },
         presentation: {
-          title: "yyyy",
-          description: "dfdaf",
+          title: "TBC",
+          description: "In the spirit of - once a physicist, always a physicist and the opportunities outside of academia",
           time: "9h30"
         }
       },
@@ -212,8 +212,8 @@ module.exports = {
           text: "@asdf"
         },
         presentation: {
-          title: "asdf",
-          description: "asdf",
+          title: "TBC",
+          description: "",
           time: "10h30"
         }
       },
@@ -243,29 +243,29 @@ module.exports = {
       {
         name: "Megan Beckett",
         photo: "themes/yellow-swan/img/Megan_Beckett.jpg",
-        bio: "asdf",
+        bio: "Coming soon.",
         company: "Siyavula Education",
         link: {
           href: "http://twitter.com/meganbeckett2",
           text: "@meganbeckett2"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "dddd",
-          time: "14h00"
+          title: "Completing the Circuit 1 - Connecting components in the electric circuits teaching-learning cycle",
+          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
+          time: "15h00"
         }
       },
       {
         name: "Adam Reynolds",
         photo: "themes/yellow-swan/img/Adam_Reynolds.jpg",
-        bio: "asdf",
+        bio: "Coming soon.",
         company: "Siyavula Education",
         link: {
           href: "http://github.com/educationmonger",
           text: "@educationmonger"
         },
         presentation: {
-          title: "Completing the Circuit - Connecting components in the electric circuits teaching-learning cycle",
+          title: "Completing the Circuit 2 - Connecting components in the electric circuits teaching-learning cycle",
           description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
           time: "15h00"
         }
@@ -273,21 +273,6 @@ module.exports = {
       {
         name: "Coffee-break",
         time: "16h00"
-      },
-      {
-        name: "Dr Spencer Wheaton",
-        photo: "themes/yellow-swan/img/Spencer_Wheaton.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/spencer_wheaton",
-          text: "@spencer_wheaton"
-        },
-        presentation: {
-          title: "Simulations in Physics, teaching, researhc etc.",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h30"
-        }
       },
       {
         name: "Mark Horner",
@@ -301,12 +286,12 @@ module.exports = {
         presentation: {
           title: "Wrap up and plans for 2017",
           description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h30"
+          time: "16h30"
         }
       },
       {
         name: "Departure ... till 2017",
-        time: "18h00"
+        time: "17h15"
       },
     ]
     ],
