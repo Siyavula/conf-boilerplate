@@ -1,61 +1,62 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 
 <h3>Background</h3>
-In 2015 Dr Colleen Henning arranged for Peter Bohacek to visit South Africa and
+<p>In 2015 Dr Colleen Henning arranged for Peter Bohacek to visit South Africa and
 run workshops on Direct Measurement Videos. We used the visit as an opportunity
 to run a conference and workshop in Johannesburg and Cape Town. To make the
 event comprehensive we included a number of talks related to not only the
 teaching of physics but also about education in general. There was overwhelming
-feedback that it should be an annual event.
+feedback that it should be an annual event.</p>
 
 
 <h3>Goal</h3>
-We want to bring together like-minded educators who want to be
+<p>We want to bring together like-minded educators who want to be
 part of building a strong community of practitioners that actively engage with
 sharing ideas and learning more about physics research, how best to teach
 physics, the impact of physics in society and the careers that are accessible
 to physicists.</p>
 
 <h3>2016 - Computational Physics</h3>
-This year we have a more of a theme but have worked hard to keep the balance
-between classroom-focused, hands-on workshops and more general talks.
+<p>This year we have a more of a theme but have worked hard to keep the balance
+between classroom-focused, hands-on workshops and more general talks.</p>
 
-Our theme, fear not <strong>NO programming experience</strong> required, is computational
+<p>Our theme, fear not - <strong>NO programming experience</strong> required, is computational
 physics. All of the speakers are passionate about physics education, not just
-physics and the talks are aimed at high school teachers.
+physics, and the talks are aimed at high school teachers.</p>
 
-Computers are more than just fancy calculators, they are tools that are
+<p>Computers are more than just fancy calculators, they are tools that are
 becoming a fundamental part of doing physics - they enable physicists at all
 levels to create, test and expore models; visualise systems and processes; and
-solve problems that don't yet have analytical solutions.
+solve problems that don't yet have analytical solutions.</p>
 
-Our line-up includes a hands-on workshop from Rhett Allain that will introduce
+<p>Our line-up includes a hands-on workshop from Rhett Allain that will introduce
 us to easy-to-use tools to bring computational physics and visualisations into
-the classroom. 
+the classroom. </p>
 
-We'll build on this with Trisha Salagaram talking about how
+<p>We'll build on this with Trisha Salagaram talking about how
 computational physics has become a pillar of modern physics and her work on
-researching how it needs to be integrated into undergraduate physics. 
+researching how it needs to be integrated into undergraduate physics. </p>
 
-Then
+<p>To extend our awareness of new physics research
 we'll move beyond the school and university classrooms and learn about some
 really exciting, cutting-edge research into galaxies that use computational
-simulations from Romeel Davé. 
+simulations from Romeel Davé. </p>
 
-The skills that physicists learn covering
-analytical-, quantitative- and technical skills are widely applicable and
-Carolina Ödman-Govender will talk about how being a physicist is widely
-applicable and enabled her to move out of academia into an exciting financial
-technology company. 
+<p>Physicists learn covering
+analytical-, quantitative- and technical skills that are widely applicable and
+Carolina Ödman-Govender will talk about how being a physicist has  enabled her
+to, not only teach young and old about astronomy, participate in amazing
+science events but also move out of academia into an exciting financial
+technology company. </p>
 
-Keeping up with the developments in Physics Education Research, like the
+<p>Keeping up with the developments in Physics Education Research, like the
 emphasis on the
 integration of computational physics and visualisation, leads into the talk by
 Saalih Allie on what other topics are emerging that in PER that we should be
-aware of.
+aware of.</p>
 
-We'll wrap up with a summary of some of the more emergent techniques that are
+<p>We'll wrap up with a summary of some of the more emergent techniques that are
 being used in education by Megan Beckett but specifically integrated into the teaching
-of electric circuits by Adam Reynolds.
+of electric circuits by Adam Reynolds.</p>
 
 
