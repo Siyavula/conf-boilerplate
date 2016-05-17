@@ -63,11 +63,11 @@ module.exports = {
       {
         name: "Dr Colleen Hennnig",
         photo: "themes/yellow-swan/img/Colleen_Henning.jpg",
-        bio: "",
+        bio: "Colleen began her career in particle physics. While tutoring university students and teaching part-time as a postgraduate, she discovered her talent for teaching and her love of making a difference to others. As a science teacher in South Africa, she works with students from all kinds of backgrounds and makes a point of teaching tolerance in her classes by encouraging group work and discussions. Her students receive awards at international science fairs. One student team won the CERN Beam Line for Schools competition and was invited to conduct experiments on site at CERN. Colleen is very active in online communities and has authored open source text books. She shares her teaching materials and experience. She organised the first South African physics teacher conference in 2015 and is working towards founding an association of science teachers. She has also contributed to textbooks which are distributed free of charge to public schools in South Africa.",
         company: "St Johns College",
         link: {
-          href: "http://twitter.com/stjohns_college",
-          text: "@stjohns_college"
+          href: "http://twitter.com/colleen_henning",
+          text: "@colleen_henning"
         },
         presentation: {
           title: "Welcome address",
