@@ -95,7 +95,7 @@ module.exports = {
       {
         name: "Professor Romeel Davé",
         photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
-        bio: "Prof. Davé obtained his A.B. in Physics from the University of California, Berkeley, his M.S. in Physics from California Institute of Technology, and his Ph.D. in Astronomy & Astrophysics from the University of California, Santa Cruz in 1998.  After that, he was awarded a Lyman J. Spitzer Postdoctoral Fellowship at Princeton, and in 2000 received a Hubble Fellowship, which he took to the University of Arizona.  In 2003, he was hired as an Assistant Professor at Arizona, and obtained tenure in 2009.  He took up the SARChI Chair at UWC in January 2013.  Currently, Prof. Davé has over 100 publications, 7000 citations, and in addition to leading a high-profile research group, he is involved in numerous major international observational and theoretical projects using Hubble, MeerKAT, and others telescopes.",
+        bio: "I was born in California and grew up mostly in the U.S. with a few early years in India.  I received my bachelor’s in Physics from Berkeley, a Master’s in Physics from Caltech, and a Ph.D. in Astronomy from U.C. Santa Cruz.  I was awarded a Lyman Spitzer postdoctoral fellowship at Princeton, followed by a Hubble Fellowship that I took to the University of Arizona.  After three years I was demoted to faculty at Arizona, where I remained for 9 years until moving to Cape Town in 2013.  I am now the South African Research Chair in Cosmology with Multi-wavelength Data, which I split between the University of the Western Cape, and the South African Astronomical Observatories, and the African Institute for Mathematical Sciences.  I study computational galaxy formation and cosmology, which is one of the fastest-growing areas of astrophysics in the world today.  My research aims to answer a fundamental question of our existence: Why does the Universe look the way it does?",
         company: "University of the Western Cape",
         link: {
             href: "https://za.linkedin.com/in/romeel-dave-885b59",
@@ -203,8 +203,8 @@ module.exports = {
         }
       },
       {
-        name: "Dr Trisha Salagaram (TBC)",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        name: "Dr Trisha Salagaram",
+        photo: "themes/yellow-swan/img/Trisha_Salagaram.jpg",
         bio: "Bio pending",
         company: "University of Pretoria",
         link: {
@@ -258,11 +258,11 @@ module.exports = {
       {
         name: "Adam Reynolds",
         photo: "themes/yellow-swan/img/Adam_Reynolds.jpg",
-        bio: "Adam has a BSc (majoring in Physics, Astrophysics, Mathematics & Applied Mathematics) and a PGCE from UCT. In addition to being an Educational Technologist he still teaches Physical Sciences part-time and is also a matric marker for Physics.",
+        bio: "Adam has a BSc (majoring in Physics, Astrophysics, Mathematics & Applied Mathematics) and a PGCE from UCT. In addition to being the Physics lead at Siyavula he teaches matric Physical Sciences part-time at Pinelands High School and is also a senior marker for Physics (NSC).",
         company: "Siyavula Education",
         link: {
-          href: "http://github.com/educationmonger",
-          text: "@educationmonger"
+            href: "https://za.linkedin.com/in/adam-reynolds-87739916", //"http://twitter.com/educationmonger",
+          text: "LinkedIn"
         },
         presentation: {
           title: "Completing the Circuit 2 - Connecting components in the electric circuits teaching-learning cycle",
@@ -278,7 +278,7 @@ module.exports = {
         name: "Mark Horner",
         photo: "themes/yellow-swan/img/Mark_Horner.jpg",
         bio: "Mark has a Ph.D. in Nuclear Physics and is a former Shuttleworth Fellow. He initiated the Free High School Science Texts project way back in 2002. This formed the foundation upon which Siyavula is built today.",
-        company: "Facebook",
+        company: "Siyavula Education",
         link: {
           href: "http://twitter.com/marknewlyn",
           text: "@marknewlyn"
