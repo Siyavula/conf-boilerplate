@@ -1,8 +1,61 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
 
-<p><strong>Goal:</strong> bring together like-minded educators who want to be
+<h3>Background</h3>
+In 2015 Dr Colleen Henning arranged for Peter Bohacek to visit South Africa and
+run workshops on Direct Measurement Videos. We used the visit as an opportunity
+to run a conference and workshop in Johannesburg and Cape Town. To make the
+event comprehensive we included a number of talks related to not only the
+teaching of physics but also about education in general. There was overwhelming
+feedback that it should be an annual event.
+
+
+<h3>Goal</h3>
+We want to bring together like-minded educators who want to be
 part of building a strong community of practitioners that actively engage with
 sharing ideas and learning more about physics research, how best to teach
 physics, the impact of physics in society and the careers that are accessible
 to physicists.</p>
+
+<h3>2016 - Computational Physics</h3>
+This year we have a more of a theme but have worked hard to keep the balance
+between classroom-focused, hands-on workshops and more general talks.
+
+Our theme, fear not <strong>NO programming experience</strong> required, is computational
+physics. All of the speakers are passionate about physics education, not just
+physics and the talks are aimed at high school teachers.
+
+Computers are more than just fancy calculators, they are tools that are
+becoming a fundamental part of doing physics - they enable physicists at all
+levels to create, test and expore models; visualise systems and processes; and
+solve problems that don't yet have analytical solutions.
+
+Our line-up includes a hands-on workshop from Rhett Allain that will introduce
+us to easy-to-use tools to bring computational physics and visualisations into
+the classroom. 
+
+We'll build on this with Trisha Salagaram talking about how
+computational physics has become a pillar of modern physics and her work on
+researching how it needs to be integrated into undergraduate physics. 
+
+Then
+we'll move beyond the school and university classrooms and learn about some
+really exciting, cutting-edge research into galaxies that use computational
+simulations from Romeel Davé. 
+
+The skills that physicists learn covering
+analytical-, quantitative- and technical skills are widely applicable and
+Carolina Ödman-Govender will talk about how being a physicist is widely
+applicable and enabled her to move out of academia into an exciting financial
+technology company. 
+
+Keeping up with the developments in Physics Education Research, like the
+emphasis on the
+integration of computational physics and visualisation, leads into the talk by
+Saalih Allie on what other topics are emerging that in PER that we should be
+aware of.
+
+We'll wrap up with a summary of some of the more emergent techniques that are
+being used in education by Megan Beckett but specifically integrated into the teaching
+of electric circuits by Adam Reynolds.
+
 

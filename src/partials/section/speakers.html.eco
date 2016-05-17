@@ -10,11 +10,13 @@
             <img class="photo" src="<%= speaker.photo %>" alt="<%= speaker.name %>" itemprop="image">
           </span>
         <% end %>
-
-        <h3 class="speech-title">
           <% if speaker.presentation.time: %>
             <span class="speech-time"><%= 'Day ' + (idx + 1) + ' @ ' if @schedule.length > 1 %><%= speaker.presentation.time %></span>
           <% end %>
+        <h3 style="padding-top:25px;" class="speech-title">
+          <!--<% if speaker.presentation.time: %>
+            <span style="margin-bottom:10px;" class="speech-time"><%= 'Day ' + (idx + 1) + ' @ ' if @schedule.length > 1 %><%= speaker.presentation.time %></span>
+          <% end %>-->
             <span> <%= speaker.presentation.title %></span>
         </h3>
 

@@ -111,7 +111,7 @@ module.exports = {
       {
         name: "Bridget Fleming",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "To get from Colleen",
+        bio: "Bridget Fleming is a passionate advocate for using Geotechnologies in the classroom. She was the IEB geography national examiner, sat on the UMALUSI adult education curriculum advisory board for geography and has authored a number of textbooks and digital classroom resources. She has recently returned to the classroom after a few years of running a start-up GIS company where she was involved in Geospatial education and training. She is Co-chair of Geo4All Africa, is on the National GISSA council (Education) and is the Chair of the Southern African Geography Teachers’ Association (SAGTA). She is presently HOD Geography at St John’s College.",
         company: "St John's College",
 //        link: {
 //          href: "http://github.com/billy95",
