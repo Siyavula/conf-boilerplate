@@ -11,7 +11,7 @@ module.exports = {
       description: "Conference description",
       date: "1st & 2nd July 2016",
       // If your event is free, just comment this line
-      price: "R1550",
+      //price: "R1550",
       venue: "St John's College",
       address: "St Johns College, St David Road, Houghton, 2198",
       city: "Johannesburg"
@@ -61,7 +61,7 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Dr Colleen Hennnig",
+        name: "Dr Colleen Henning",
         photo: "themes/yellow-swan/img/Colleen_Henning.jpg",
         bio: "Colleen began her career in particle physics. While tutoring university students and teaching part-time as a postgraduate, she discovered her talent for teaching and her love of making a difference to others. As a science teacher in South Africa, she works with students from all kinds of backgrounds and makes a point of teaching tolerance in her classes by encouraging group work and discussions. Her students receive awards at international science fairs. One student team won the CERN Beam Line for Schools competition and was invited to conduct experiments on site at CERN. Colleen is very active in online communities and has authored open source text books. She shares her teaching materials and experience. She organised the first South African physics teacher conference in 2015 and is working towards founding an association of science teachers. She has also contributed to textbooks which are distributed free of charge to public schools in South Africa.",
         company: "St Johns College",
@@ -95,7 +95,7 @@ module.exports = {
       {
         name: "Professor Romeel Davé",
         photo: "themes/yellow-swan/img/Romeel_Dave.jpg",
-        bio: "I was born in California and grew up mostly in the U.S. with a few early years in India.  I received my bachelor’s in Physics from Berkeley, a Master’s in Physics from Caltech, and a Ph.D. in Astronomy from U.C. Santa Cruz.  I was awarded a Lyman Spitzer postdoctoral fellowship at Princeton, followed by a Hubble Fellowship that I took to the University of Arizona.  After three years I was demoted to faculty at Arizona, where I remained for 9 years until moving to Cape Town in 2013.  I am now the South African Research Chair in Cosmology with Multi-wavelength Data, which I split between the University of the Western Cape, and the South African Astronomical Observatories, and the African Institute for Mathematical Sciences.  I study computational galaxy formation and cosmology, which is one of the fastest-growing areas of astrophysics in the world today.  My research aims to answer a fundamental question of our existence: Why does the Universe look the way it does?",
+        bio: "Romeel was born in California and grew up mostly in the U.S. with a few early years in India.  He received his bachelor’s in Physics from Berkeley, a Master’s in Physics from Caltech, and a Ph.D. in Astronomy from U.C. Santa Cruz.  He was awarded a Lyman Spitzer postdoctoral fellowship at Princeton, followed by a Hubble Fellowship that he took to the University of Arizona.  After three years he was demoted to faculty at Arizona, where he remained for 9 years until moving to Cape Town in 2013.  He is currently the South African Research Chair in Cosmology with Multi-wavelength Data, which is split between the University of the Western Cape, and the South African Astronomical Observatories, and the African Institute for Mathematical Sciences.  He studies computational galaxy formation and cosmology, which is one of the fastest-growing areas of astrophysics in the world today.  His research aims to answer a fundamental question of our existence: Why does the Universe look the way it does?",
         company: "University of the Western Cape",
         link: {
             href: "https://za.linkedin.com/in/romeel-dave-885b59",
@@ -106,6 +106,25 @@ module.exports = {
           description: "",
           time: "10h00"
         }
+      },
+      {
+        name: "Prof. David Wolfe",
+        photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "Emeritus Professor of Physics, University of New Mexico; Volunteer Coordinator for South Africa, IOP for Africa Project, UK",
+        company: "Institute of Physics",
+        link: {
+          href: "https://uk.linkedin.com/in/david-wolfe-85128a21",
+          text: "LinkedIn"
+        },
+        presentation: {
+          title:"", 
+          description: "",
+          time: "11h00"
+        }
+      },
+      {
+        name: "Tea / Coffee",
+        time: "11h30"
       },
       
       {
@@ -164,8 +183,8 @@ module.exports = {
           text: "@kosmavm"
         },
         presentation: {
-          title: "Exo-planets",
-          description: "In the spirit of - exo-planets, recent discoveries",
+          title: "Exoplanets - could there be more planets than stars?",
+          description: "Exoplanets - planets orbiting stars other than our own - capture our imagination. Since first finding planets outside of our solar system in 1992 our tally of them has been steadily growing, but this year it made a radical jump. On 10th May NASA announced the confirmation of 1284 new planets, shooting the verified exoplanet count up from 1980 to 3264 in one stunning swoop. How do we find these planets? Do these other planetary systems mimic our own? Have we found any planets that humans could live on? And how can you and your students help in the search for more planets?",
           time: "17h30"
         }
       },
@@ -190,15 +209,15 @@ module.exports = {
       {
         name: "Dr Carolina Ödman-Govender",
         photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
-        bio: "------",
+        bio: "Dr. Carolina Ödman-Govender studied physics engineering at the Swiss Federal Institute of Technology before completing a Ph.D. in astrophysics at the University of Cambridge. After a research post in Italy, she joined Leiden University in the Netherlands to develop Universe Awareness, an award-winning international astronomy education programme. She is one of the co-organisers of the .astronomy (dot-astronomy) workshops exploring the frontiers between technology and astronomy, from education to research. She is currently associate scientist with SKA Africa and works on various science for development projects. She is also Chief Scientist at thumbzup, a South African startup in financial technology and she is a proud mum of two boys.",
         company: "Thumbzup Innovations",
         link: {
           href: "http://twitter.com/carolune",
           text: "@carolune"
         },
         presentation: {
-          title: "Once a physicist, always a physicist and the opportunities outside of academia",
-          description: "In the spirit of - once a physicist, always a physicist and the opportunities outside of academia",
+          title: "Once a physicist, always a physicist",
+          description: "What careers can a physicist have and what does being a physicist mean in the professional world? What skills do physicists bring? What value does it add to hire someone with a physics degree? I hope to convey the seemingly endless possibilities that are available to those physicists who are willing to reinvent themselves in different contexts.",
           time: "9h30"
         }
       },
@@ -241,6 +260,21 @@ module.exports = {
         time: "13h00"
       },
       {
+        name: "Hands-on activity",
+        photo: "themes/yellow-swan/img/Mark_Horner.jpg",
+        bio: "Mark has a Ph.D. in Nuclear Physics and is a former Shuttleworth Fellow. He initiated the Free High School Science Texts project way back in 2002. This formed the foundation upon which Siyavula is built today.",
+        company: "Siyavula Education",
+        link: {
+          href: "http://twitter.com/marknewlyn",
+          text: "@marknewlyn"
+        },
+        presentation: {
+          title: "Wrap up and plans for 2017",
+          description:"Dates, interests, expansion, and ideas.",
+          time: "14h00"
+        }
+      },
+      {
         name: "Megan Beckett",
         photo: "themes/yellow-swan/img/Megan_Beckett.jpg",
         bio: "With a MSc in Molecular Biology, Megan followed her goal to make STEM education engaging, relevant and accessible. She leads the research, analytics and pedagogical design for Siyavula's current and future e-learning experiences. She works to advance open education.",
@@ -252,8 +286,12 @@ module.exports = {
         presentation: {
           title: "Completing the Circuit 1 - Connecting components in the electric circuits teaching-learning cycle",
           description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
-          time: "14h00"
+          time: "15h00"
         }
+      },
+      {
+        name: "Tea / Coffee-break",
+        time: "16h00"
       },
       {
         name: "Adam Reynolds",
@@ -267,12 +305,8 @@ module.exports = {
         presentation: {
           title: "Completing the Circuit 2 - Connecting components in the electric circuits teaching-learning cycle",
           description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
-          time: "15h00"
+          time: "16h30"
         }
-      },
-      {
-        name: "Coffee-break",
-        time: "16h00"
       },
       {
         name: "Mark Horner",
@@ -286,12 +320,12 @@ module.exports = {
         presentation: {
           title: "Wrap up and plans for 2017",
           description:"Dates, interests, expansion, and ideas.",
-          time: "16h30"
+          time: "17h30"
         }
       },
       {
         name: "Departure ... till 2017",
-        time: "17h15"
+        time: "18h15"
       },
     ]
     ],
