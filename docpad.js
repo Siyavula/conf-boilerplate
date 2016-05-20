@@ -77,7 +77,7 @@ module.exports = {
       },
       
       {
-        name: "???",
+        name: "Surprise guest speaker",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "------",
         company: "??",
@@ -224,15 +224,15 @@ module.exports = {
       {
         name: "Dr Trisha Salagaram",
         photo: "themes/yellow-swan/img/Trisha_Salagaram.jpg",
-        bio: "Bio pending",
+        bio: "Trisha Salagaram is a lecturer in the department of Physics at the University of Cape Town. Her current research interest is Computational Physics Education Research. Previous research interests include theoretical and computational studies of liquid-phase sintering of silicon nitride and diamond synthesis. She completed her undergraduate studies (1997-2000) and a Masters degree in Physics (2002) at the University of Natal, and completed a PhD in Physics (2008) from the University of Kwazulu-Natal.",
         company: "University of Pretoria",
         link: {
           href: "https://za.linkedin.com/in/trisha-salagaram-5b48032a",
           text: "LinkedIn"
         },
         presentation: {
-          title: "The importance of computational physics, it's key role in research and what this means for teaching physics",
-          description: "In the spirit of - the importance of computational physics, it's key role in research and what this means for teaching physics",
+          title: "Developing computational paradigms for undergraduate and high school physics",
+          description: "Computational physics is an established method of conducting physics research where problems are solved on a computer. It allows researchers to study phenomena that are not easily or completely studied by theoretical or experimental means. In addition computational physics is a valuable pedagogical tool which has been shown to enhance students understanding on physics concepts. Computational physics education research is a relatively new field of research. My interest lies in developing computational paradigms to enhance the understanding of physics at undergraduate level at tertiary institutions and at high school level. At the undergraduate level this entails translating current physics research in advanced topics to simplified physics problems that can be solved on the computer in the classroom. At high school level my interest lies in developing simple physics problems relevant to the national physical science curriculum, from which students must create interactive simulations through Easy Java Simulations (Ejs). In this talk I will give an overview of computational physics in South African and its relevance to Science, particularly in the African context. I will also present the results from my research projects in computational physics education.",
           time: "10h30"
         }
       },
@@ -260,17 +260,17 @@ module.exports = {
         time: "13h00"
       },
       {
-        name: "Hands-on activity",
-        photo: "themes/yellow-swan/img/Mark_Horner.jpg",
-        bio: "Mark has a Ph.D. in Nuclear Physics and is a former Shuttleworth Fellow. He initiated the Free High School Science Texts project way back in 2002. This formed the foundation upon which Siyavula is built today.",
+        name: "Accelerating Africa",
+        photo: "themes/yellow-swan/img/Accelerating_Africa.jpg",
+        bio: "Report back from the team that won the 2015 CERN Beamline Competition.",
         company: "Siyavula Education",
-        link: {
-          href: "http://twitter.com/marknewlyn",
-          text: "@marknewlyn"
-        },
+     //   link: {
+     //     href: "http://twitter.com/",
+      //    text: "@marknewlyn"
+      //  },
         presentation: {
-          title: "Wrap up and plans for 2017",
-          description:"Dates, interests, expansion, and ideas.",
+          title: "Lighting the way",
+          description:"A team of budding young South African scientists won the CERN Beamline Competition in 2015. A report back from the team on their experience and the science.",
           time: "14h00"
         }
       },
