@@ -109,8 +109,14 @@ module.exports = {
       },
       {
         name: "Prof. David Wolfe",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Emeritus Professor of Physics, University of New Mexico; Volunteer Coordinator for South Africa, IOP for Africa Project, UK",
+        photo: "themes/yellow-swan/img/David_Wolfe.jpg",
+        bio: "David Wolfe earned a PhD in Physics from the University of Pennsylvania in 1966. He has taught
+            and done research at the Universities of Chicago, Washington, and New Mexico in the US. His
+            research has been in high energy experimental physics, including experiments at Brookhaven
+            National Labs and at CERN, amongst others. He was worked at labs in Europe and Russia. Since
+            moving to the UK in 2000, he has taught in Britain at various secondary schools. From 2012, he
+            has been the UK Institute of Physics Coordinator for a teacher training programme in South Africa,
+        where he also teaches part-time at UCT.",
         company: "Institute of Physics",
         link: {
           href: "https://uk.linkedin.com/in/david-wolfe-85128a21",
@@ -129,7 +135,7 @@ module.exports = {
       
       {
         name: "Bridget Fleming",
-        photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/Bridget_Flemming.jpg",
         bio: "Bridget Fleming is a passionate advocate for using Geotechnologies in the classroom. She was the IEB geography national examiner, sat on the UMALUSI adult education curriculum advisory board for geography and has authored a number of textbooks and digital classroom resources. She has recently returned to the classroom after a few years of running a start-up GIS company where she was involved in Geospatial education and training. She is Co-chair of Geo4All Africa, is on the National GISSA council (Education) and is the Chair of the Southern African Geography Teachers’ Association (SAGTA). She is presently HOD Geography at St John’s College.",
         company: "St John's College",
 //        link: {
@@ -231,7 +237,7 @@ module.exports = {
           text: "LinkedIn"
         },
         presentation: {
-          title: "Developing computational paradigms for undergraduate and high school physics",
+          title: "The importance of computational physics, it's key role in research and what this means for teaching physics",
           description: "Computational physics is an established method of conducting physics research where problems are solved on a computer. It allows researchers to study phenomena that are not easily or completely studied by theoretical or experimental means. In addition computational physics is a valuable pedagogical tool which has been shown to enhance students understanding on physics concepts. Computational physics education research is a relatively new field of research. My interest lies in developing computational paradigms to enhance the understanding of physics at undergraduate level at tertiary institutions and at high school level. At the undergraduate level this entails translating current physics research in advanced topics to simplified physics problems that can be solved on the computer in the classroom. At high school level my interest lies in developing simple physics problems relevant to the national physical science curriculum, from which students must create interactive simulations through Easy Java Simulations (Ejs). In this talk I will give an overview of computational physics in South African and its relevance to Science, particularly in the African context. I will also present the results from my research projects in computational physics education.",
           time: "10h30"
         }
