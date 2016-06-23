@@ -21,7 +21,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Register now!",
-        link: "http://qkt.io/4zONvZ"
+        link: "https://www.quicket.co.za/events/10169-physics-teachers-workshop-and-conference-2016/#/"
     },
 
     // Site info
@@ -110,20 +110,14 @@ module.exports = {
       {
         name: "Prof. David Wolfe",
         photo: "themes/yellow-swan/img/David_Wolfe.jpg",
-        bio: "David Wolfe earned a PhD in Physics from the University of Pennsylvania in 1966. He has taught
-            and done research at the Universities of Chicago, Washington, and New Mexico in the US. His
-            research has been in high energy experimental physics, including experiments at Brookhaven
-            National Labs and at CERN, amongst others. He was worked at labs in Europe and Russia. Since
-            moving to the UK in 2000, he has taught in Britain at various secondary schools. From 2012, he
-            has been the UK Institute of Physics Coordinator for a teacher training programme in South Africa,
-        where he also teaches part-time at UCT.",
+        bio: "David Wolfe earned a PhD in Physics from the University of Pennsylvania in 1966. He has taught and done research at the Universities of Chicago, Washington, and New Mexico in the US. His             research has been in high energy experimental physics, including experiments at Brookhaven National Labs and at CERN, amongst others. He was worked at labs in Europe and Russia. Since             moving to the UK in 2000, he has taught in Britain at various secondary schools. From 2012, he has been the UK Institute of Physics Coordinator for a teacher training programme in South Africa, where he also teaches part-time at UCT.",
         company: "Institute of Physics",
         link: {
           href: "https://uk.linkedin.com/in/david-wolfe-85128a21",
           text: "LinkedIn"
         },
         presentation: {
-          title:"", 
+          title:"Women in Physics", 
           description: "",
           time: "11h00"
         }
