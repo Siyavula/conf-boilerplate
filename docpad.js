@@ -77,7 +77,7 @@ module.exports = {
       },
       
       {
-        name: "Surprise guest speaker",
+        name: "Anne Oberholzer",
         photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "------",
         company: "??",
@@ -89,21 +89,6 @@ module.exports = {
           title: "TBC",
           description:"",
           time: "9h30"
-        }
-      },
-      {
-        name: "Dr Ismail Akhalwaya",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Ismail obtained his B.Sc. Mathematics, Physics and Computer Science (2003) and his B.Sc. Honours Mathematics of Computer Science with Physics (2004) from UCT on the beautiful foothills of Table Mountain. He then joined the Quantum Research Group (QRG) at the balmy UKZN for his M.Sc. Theoretical Physics (Quantum Computation & Information, 2006, awarded cum laude with the S2A3 Bronze Medal). Ismail was then fortunate to be awarded a Canon Collins-Mamphela Rampele Scholarship for a one year studentship (non-credit course work & intensive research) at the Centre for Quantum Computation, Department of Applied Mathematics and Theoretical Physics, University of Cambridge in the perpetually overcast UK. After much soul-searching, Ismail completed his Ph.D. Theoretical Physics (Classical Noise in Quantum Systems, 2014) at the QRG, UKZN.At IBM Research Ismail is engaged with three primary tasks: engage in fundamental SKA physics/astronomy research especially through a machine-learning lens, explore quantum information research and supervise/co-supervise Wits postgraduate students. To faciliate the latter the University of the Witwatersrand has appointed Ismail as a Visiting Lecturer in the School of Computer Science and Applied Mathematics. On the SKA front, Ismail has forged ties with a number of SKA researchers and is currently working on Bayesian Interferometry and Unsupervised Machine Learning.            ",
-        company: "IBM Research - Africa",
-        link: {
-            href: "http://researcher.ibm.com/researcher/view.php?person=za-IsmailA",
-          text: "IBM profile"
-        },
-        presentation: {
-          title: "Quantum computing ...",
-          description: "",
-          time: "10h00"
         }
       },
 
@@ -275,18 +260,18 @@ module.exports = {
         time: "13h00"
       },
       {
-        name: "Accelerating Africa",
-        photo: "themes/yellow-swan/img/Accelerating_Africa.jpg",
-        bio: "Report back from the team that won the 2015 CERN Beamline Competition.",
-        company: "Siyavula Education",
-     //   link: {
-     //     href: "http://twitter.com/",
-      //    text: "@marknewlyn"
-      //  },
+        name: "Dr Ismail Akhalwaya",
+        photo: "themes/yellow-swan/img/Ismail_Akhalwaya.jpg",
+        bio: "Ismail obtained his B.Sc. Mathematics, Physics and Computer Science (2003) and his B.Sc. Honours Mathematics of Computer Science with Physics (2004) from UCT on the beautiful foothills of Table Mountain. He then joined the Quantum Research Group (QRG) at the balmy UKZN for his M.Sc. Theoretical Physics (Quantum Computation & Information, 2006, awarded cum laude with the S2A3 Bronze Medal). Ismail was then fortunate to be awarded a Canon Collins-Mamphela Rampele Scholarship for a one year studentship (non-credit course work & intensive research) at the Centre for Quantum Computation, Department of Applied Mathematics and Theoretical Physics, University of Cambridge in the perpetually overcast UK. After much soul-searching, Ismail completed his Ph.D. Theoretical Physics (Classical Noise in Quantum Systems, 2014) at the QRG, UKZN.At IBM Research Ismail is engaged with three primary tasks: engage in fundamental SKA physics/astronomy research especially through a machine-learning lens, explore quantum information research and supervise/co-supervise Wits postgraduate students. To faciliate the latter the University of the Witwatersrand has appointed Ismail as a Visiting Lecturer in the School of Computer Science and Applied Mathematics. On the SKA front, Ismail has forged ties with a number of SKA researchers and is currently working on Bayesian Interferometry and Unsupervised Machine Learning.            ",
+        company: "IBM Research - Africa",
+        link: {
+            href: "http://researcher.ibm.com/researcher/view.php?person=za-IsmailA",
+          text: "IBM profile"
+        },
         presentation: {
-          title: "Lighting the way",
-          description:"A team of budding young South African scientists won the CERN Beamline Competition in 2015. A report back from the team on their experience and the science.",
-          time: "14h00"
+          title: "Quantum computing ...",
+          description: "",
+          time: "10h00"
         }
       },
       {
