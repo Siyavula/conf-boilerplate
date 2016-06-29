@@ -86,7 +86,7 @@ module.exports = {
           text: "LinkedIn"
         },
         presentation: {
-          title: "Overview of science enrolment",
+          title: "Keynote address",
           description:"",
           time: "9h30"
         }
