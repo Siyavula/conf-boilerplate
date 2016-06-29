@@ -78,15 +78,15 @@ module.exports = {
       
       {
         name: "Anne Oberholzer",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "------",
-        company: "??",
-        //link: {
-        //  href: "http://twitter.com/ddd",
-        //  text: "@dfdslajfasdofjas"
-        //},
+        photo: "themes/yellow-swan/img/Anne_Oberholzer.jpg",
+        bio: "Anne is the Chief Executive Officer of the Independent Examinations Board (IEB). The IEB’s mission is to make a significant, on-going contribution to human resource development through the design, delivery and promotion of a wide range of high quality, affordable assessment products and services to all sectors. ",
+        company: "Independent Examinations Board",
+        link: {
+          href: "https://www.linkedin.com/in/anne-oberholzer-45715517",
+          text: "LinkedIn"
+        },
         presentation: {
-          title: "TBC",
+          title: "Overview of science enrolment",
           description:"",
           time: "9h30"
         }
@@ -269,9 +269,9 @@ module.exports = {
           text: "IBM profile"
         },
         presentation: {
-          title: "Quantum computing ...",
-          description: "",
-          time: "10h00"
+          title: "Quantum Computers as Quantum Simulators",
+          description: "In the 20th century the scientific method received an upgrade: computation. Computation has become a third pillar that facilitates both theory generation and physical experimentation. Computers are used to help understand theoretical models, to crunch experimental data and even partially replace experiment with simulations. Now, in the 21st century, computation is about to receive an exponential upgrade: quantum computation. In this talk, we briefly introduce the quantum physics underlying quantum computers and how quantum computers allow us to simulate quantum physics and as a nefarious aside, crack the encryption lock in your internet browser!",
+          time: "14h00"
         }
       },
       {
