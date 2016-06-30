@@ -147,29 +147,55 @@ module.exports = {
         time: "13h00"
       },
       {
-        name: "Associate Professor Rhett Allain",
-        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
-        bio: "Rhett Allain is an associate professor of physics at Southeastern Louisiana University and the author of the Wired magazine science blog Dot Physics. He received his Ph.D. from North Carolina State University in 2001 and works in the field of physics education research. In his blog, Dot Physics, Allain discusses physical concepts, answers questions related to physics and math, and debunks questionable physical claims. Many of his posts are supported by experiments, calculations and models. Recently, he has analyzed the physics behind the Angry Birds Space video game and behind a now-debunked video which purported to show a man flying with home-made wings. He has also criticized television shows, including Fight Science, that perform poorly controlled experiments which are presented as scientific.",
-        company: "Southeastern Louisiana University",
+        name: "Dr Carolina Ödman-Govender",
+        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
+        bio: "Dr. Carolina Ödman-Govender studied physics engineering at the Swiss Federal Institute of Technology before completing a Ph.D. in astrophysics at the University of Cambridge. After a research post in Italy, she joined Leiden University in the Netherlands to develop Universe Awareness, an award-winning international astronomy education programme. She is one of the co-organisers of the .astronomy (dot-astronomy) workshops exploring the frontiers between technology and astronomy, from education to research. She is currently associate scientist with SKA Africa and works on various science for development projects. She is also Chief Scientist at thumbzup, a South African startup in financial technology and she is a proud mum of two boys.",
+        company: "Thumbzup Innovations",
         link: {
-          href: "http://twitter.com/rjallain",
-          text: "@rjallain"
+          href: "http://twitter.com/carolune",
+          text: "@carolune"
         },
         presentation: {
-          title: "Computational Physics for High School Teachers",
-          description: "In the spirit of - using simple computational physics tools to understand and visualise physics in action.",
+          title: "Once a physicist, always a physicist",
+          description: "What careers can a physicist have and what does being a physicist mean in the professional world? What skills do physicists bring? What value does it add to hire someone with a physics degree? I hope to convey the seemingly endless possibilities that are available to those physicists who are willing to reinvent themselves in different contexts.",
           time: "14h00"
         }
       },
+      {
+        name: "Megan Beckett",
+        photo: "themes/yellow-swan/img/Megan_Beckett.jpg",
+        bio: "With a MSc in Molecular Biology, Megan followed her goal to make STEM education engaging, relevant and accessible. She leads the research, analytics and pedagogical design for Siyavula's current and future e-learning experiences. She works to advance open education.",
+        company: "Siyavula Education",
+        link: {
+          href: "http://twitter.com/meganbeckett2",
+          text: "@meganbeckett2"
+        },
+        presentation: {
+          title: "Completing the Circuit 1 - Connecting components in the electric circuits teaching-learning cycle",
+          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
+          time: "15h00"
+        }
+      },
+
+
+
+
       {
         name: "Tea / Coffee",
         time: "16h00"
       },
       {
-        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
+        name: "Adam Reynolds",
+        photo: "themes/yellow-swan/img/Adam_Reynolds.jpg",
+        bio: "Adam has a BSc (majoring in Physics, Astrophysics, Mathematics & Applied Mathematics) and a PGCE from UCT. In addition to being the Physics lead at Siyavula he teaches matric Physical Sciences part-time at Pinelands High School and is also a senior marker for Physics (NSC).",
+        company: "Siyavula Education",
+        link: {
+            href: "https://za.linkedin.com/in/adam-reynolds-87739916", //"http://twitter.com/educationmonger",
+          text: "LinkedIn"
+        },
         presentation: {
-          title: "Computational Physics for High School Teachers, Part 2",
-          description: "",
+          title: "Completing the Circuit 2 - Connecting components in the electric circuits teaching-learning cycle",
+          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
           time: "16h30"
         }
       },
@@ -207,17 +233,17 @@ module.exports = {
         time: "9h15"
       },
       {
-        name: "Dr Carolina Ödman-Govender",
-        photo: "themes/yellow-swan/img/Carolina_Odman-Govender.jpeg",
-        bio: "Dr. Carolina Ödman-Govender studied physics engineering at the Swiss Federal Institute of Technology before completing a Ph.D. in astrophysics at the University of Cambridge. After a research post in Italy, she joined Leiden University in the Netherlands to develop Universe Awareness, an award-winning international astronomy education programme. She is one of the co-organisers of the .astronomy (dot-astronomy) workshops exploring the frontiers between technology and astronomy, from education to research. She is currently associate scientist with SKA Africa and works on various science for development projects. She is also Chief Scientist at thumbzup, a South African startup in financial technology and she is a proud mum of two boys.",
-        company: "Thumbzup Innovations",
+        name: "Dr Ismail Akhalwaya",
+        photo: "themes/yellow-swan/img/Ismail_Akhalwaya.jpg",
+        bio: "Ismail obtained his B.Sc. Mathematics, Physics and Computer Science (2003) and his B.Sc. Honours Mathematics of Computer Science with Physics (2004) from UCT on the beautiful foothills of Table Mountain. He then joined the Quantum Research Group (QRG) at the balmy UKZN for his M.Sc. Theoretical Physics (Quantum Computation & Information, 2006, awarded cum laude with the S2A3 Bronze Medal). Ismail was then fortunate to be awarded a Canon Collins-Mamphela Rampele Scholarship for a one year studentship (non-credit course work & intensive research) at the Centre for Quantum Computation, Department of Applied Mathematics and Theoretical Physics, University of Cambridge in the perpetually overcast UK. After much soul-searching, Ismail completed his Ph.D. Theoretical Physics (Classical Noise in Quantum Systems, 2014) at the QRG, UKZN.At IBM Research Ismail is engaged with three primary tasks: engage in fundamental SKA physics/astronomy research especially through a machine-learning lens, explore quantum information research and supervise/co-supervise Wits postgraduate students. To faciliate the latter the University of the Witwatersrand has appointed Ismail as a Visiting Lecturer in the School of Computer Science and Applied Mathematics. On the SKA front, Ismail has forged ties with a number of SKA researchers and is currently working on Bayesian Interferometry and Unsupervised Machine Learning.            ",
+        company: "IBM Research - Africa",
         link: {
-          href: "http://twitter.com/carolune",
-          text: "@carolune"
+            href: "http://researcher.ibm.com/researcher/view.php?person=za-IsmailA",
+          text: "IBM profile"
         },
         presentation: {
-          title: "Once a physicist, always a physicist",
-          description: "What careers can a physicist have and what does being a physicist mean in the professional world? What skills do physicists bring? What value does it add to hire someone with a physics degree? I hope to convey the seemingly endless possibilities that are available to those physicists who are willing to reinvent themselves in different contexts.",
+          title: "Quantum Computers as Quantum Simulators",
+          description: "In the 20th century the scientific method received an upgrade: computation. Computation has become a third pillar that facilitates both theory generation and physical experimentation. Computers are used to help understand theoretical models, to crunch experimental data and even partially replace experiment with simulations. Now, in the 21st century, computation is about to receive an exponential upgrade: quantum computation. In this talk, we briefly introduce the quantum physics underlying quantum computers and how quantum computers allow us to simulate quantum physics and as a nefarious aside, crack the encryption lock in your internet browser!",
           time: "9h30"
         }
       },
@@ -260,33 +286,18 @@ module.exports = {
         time: "13h00"
       },
       {
-        name: "Dr Ismail Akhalwaya",
-        photo: "themes/yellow-swan/img/Ismail_Akhalwaya.jpg",
-        bio: "Ismail obtained his B.Sc. Mathematics, Physics and Computer Science (2003) and his B.Sc. Honours Mathematics of Computer Science with Physics (2004) from UCT on the beautiful foothills of Table Mountain. He then joined the Quantum Research Group (QRG) at the balmy UKZN for his M.Sc. Theoretical Physics (Quantum Computation & Information, 2006, awarded cum laude with the S2A3 Bronze Medal). Ismail was then fortunate to be awarded a Canon Collins-Mamphela Rampele Scholarship for a one year studentship (non-credit course work & intensive research) at the Centre for Quantum Computation, Department of Applied Mathematics and Theoretical Physics, University of Cambridge in the perpetually overcast UK. After much soul-searching, Ismail completed his Ph.D. Theoretical Physics (Classical Noise in Quantum Systems, 2014) at the QRG, UKZN.At IBM Research Ismail is engaged with three primary tasks: engage in fundamental SKA physics/astronomy research especially through a machine-learning lens, explore quantum information research and supervise/co-supervise Wits postgraduate students. To faciliate the latter the University of the Witwatersrand has appointed Ismail as a Visiting Lecturer in the School of Computer Science and Applied Mathematics. On the SKA front, Ismail has forged ties with a number of SKA researchers and is currently working on Bayesian Interferometry and Unsupervised Machine Learning.            ",
-        company: "IBM Research - Africa",
+        name: "Associate Professor Rhett Allain",
+        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
+        bio: "Rhett Allain is an associate professor of physics at Southeastern Louisiana University and the author of the Wired magazine science blog Dot Physics. He received his Ph.D. from North Carolina State University in 2001 and works in the field of physics education research. In his blog, Dot Physics, Allain discusses physical concepts, answers questions related to physics and math, and debunks questionable physical claims. Many of his posts are supported by experiments, calculations and models. Recently, he has analyzed the physics behind the Angry Birds Space video game and behind a now-debunked video which purported to show a man flying with home-made wings. He has also criticized television shows, including Fight Science, that perform poorly controlled experiments which are presented as scientific.",
+        company: "Southeastern Louisiana University",
         link: {
-            href: "http://researcher.ibm.com/researcher/view.php?person=za-IsmailA",
-          text: "IBM profile"
+          href: "http://twitter.com/rjallain",
+          text: "@rjallain"
         },
         presentation: {
-          title: "Quantum Computers as Quantum Simulators",
-          description: "In the 20th century the scientific method received an upgrade: computation. Computation has become a third pillar that facilitates both theory generation and physical experimentation. Computers are used to help understand theoretical models, to crunch experimental data and even partially replace experiment with simulations. Now, in the 21st century, computation is about to receive an exponential upgrade: quantum computation. In this talk, we briefly introduce the quantum physics underlying quantum computers and how quantum computers allow us to simulate quantum physics and as a nefarious aside, crack the encryption lock in your internet browser!",
+          title: "Computational Physics for High School Teachers",
+          description: "In the spirit of - using simple computational physics tools to understand and visualise physics in action.",
           time: "14h00"
-        }
-      },
-      {
-        name: "Megan Beckett",
-        photo: "themes/yellow-swan/img/Megan_Beckett.jpg",
-        bio: "With a MSc in Molecular Biology, Megan followed her goal to make STEM education engaging, relevant and accessible. She leads the research, analytics and pedagogical design for Siyavula's current and future e-learning experiences. She works to advance open education.",
-        company: "Siyavula Education",
-        link: {
-          href: "http://twitter.com/meganbeckett2",
-          text: "@meganbeckett2"
-        },
-        presentation: {
-          title: "Completing the Circuit 1 - Connecting components in the electric circuits teaching-learning cycle",
-          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
-          time: "15h00"
         }
       },
       {
@@ -294,17 +305,10 @@ module.exports = {
         time: "16h00"
       },
       {
-        name: "Adam Reynolds",
-        photo: "themes/yellow-swan/img/Adam_Reynolds.jpg",
-        bio: "Adam has a BSc (majoring in Physics, Astrophysics, Mathematics & Applied Mathematics) and a PGCE from UCT. In addition to being the Physics lead at Siyavula he teaches matric Physical Sciences part-time at Pinelands High School and is also a senior marker for Physics (NSC).",
-        company: "Siyavula Education",
-        link: {
-            href: "https://za.linkedin.com/in/adam-reynolds-87739916", //"http://twitter.com/educationmonger",
-          text: "LinkedIn"
-        },
+        photo: "themes/yellow-swan/img/Rhett_Allain.jpg",
         presentation: {
-          title: "Completing the Circuit 2 - Connecting components in the electric circuits teaching-learning cycle",
-          description: "This workshop aims to look at some specific learning strategies that can be applied to the learning (and teaching) of electric circuits in Grades 10 to 12 Physical Sciences. Some specific concepts in electric circuits theory (e.g. potential difference; emf and internal resistance; resistance) will be included as discussion points. The purpose of including specific topics is not to teach any content, but rather to discuss how we teach the content. What analogies do we use? How do we sequence the concepts? What are the potential advantages and disadvantages that result from any particular decision we make? This workshop will be very much hands-on and interactive.",
+          title: "Computational Physics for High School Teachers, Part 2",
+          description: "",
           time: "16h30"
         }
       },
